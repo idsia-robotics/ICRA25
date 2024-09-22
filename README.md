@@ -12,5 +12,5 @@ Daniele Palossi<sup>1,2</sup>
 <a href="https://youtu.be/jxOR3Ncbixs">
   <b>In-field experiments video</b>
   <br>
-  <img src="images/video_cover.png" alt="In-field experiments video" width="800">  
+  <img src="video_demo.png" alt="In-field experiments video" width="800">  
 </a>

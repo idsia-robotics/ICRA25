@@ -15,4 +15,6 @@ Daniele Palossi<sup>1,2</sup>
   <img src="video_demo.png" alt="In-field experiments video" width="800"> 
 </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jxOR3Ncbixs" title="ICRA&#39;25 -- Paper ID 3255" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jxOR3Ncbixs" title="ICRA&#39;25 -- Paper ID 3255" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
